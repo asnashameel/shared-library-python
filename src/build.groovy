@@ -5,4 +5,5 @@ def call() {
   python3 -m pip install --upgrade pip
   pip install -r requirements.txt
   pthon3 -m pytest tests_main.py
+  '''
 }
